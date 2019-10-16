@@ -1,0 +1,15 @@
+.todo-list {
+  background-color: #ebecf0;
+  width: 272px;
+  margin: 20px;
+  .card {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    max-height: 100%;
+    background-color: #ebecf0;
+    border-radius: 3px;
+    white-space: normal;
+  }
+}
